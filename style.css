@@ -1,0 +1,19 @@
+.test {
+    background-color: aquamarine;
+}
+.next {
+    background-color: antiquewhite;
+}
+body {
+    background-color: black;
+    text-align: center
+}
+#hi {
+    border-radius: 100px;
+}
+#hello{
+    border-radius: 100px;
+}
+.third {
+    background-color: darkorchid;
+}
